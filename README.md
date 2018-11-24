@@ -31,7 +31,7 @@ module.exports = {
 6. `truffle migrate`
 
 
-**Tercer Paso:**
+**Tercera Etapa:**
 
 1. `Crea los contratos`
 2. `Compila los contratos`
