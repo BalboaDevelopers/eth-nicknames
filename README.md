@@ -27,5 +27,12 @@ module.exports = {
   }
 }; 
 ```
-5. `docker-compose up`  # Levantar el ganache, nodo local de Ethereum.
+5. `docker run -d -p 8545:8545 trufflesuite/ganache-cli:latest`  # Levantar el ganache, nodo local de Ethereum.
 6. `truffle migrate`
+
+
+**Tercer Paso:**
+
+1. `Crea los contratos`
+2. `Compila los contratos`
+3. `Migra los contratos`
